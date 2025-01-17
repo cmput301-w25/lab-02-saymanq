@@ -3,12 +3,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Syed Ayman Quadri`
+- **CCID:** `syedaym1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+`Claude 3.5 Sonnet, to figure out the toast notification implementation`
 
 ## Verbal Collaboration
 
